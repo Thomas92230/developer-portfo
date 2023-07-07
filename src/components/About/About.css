@@ -141,6 +141,7 @@
     position: relative;
     color: black;
     margin-bottom: -11rem;
+    margin-top: -2rem;
 }
 
     .about-body {
@@ -215,6 +216,7 @@
   
   .about {
     margin-bottom: -12rem;
+    margin-top: -2rem;
 }
 
 .about--container {
