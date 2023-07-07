@@ -188,6 +188,9 @@
 
 
 @media screen and (max-width: 992px) {
+    .contacts {
+        margin-top: -1rem;
+    }
     .contacts--img {
         display: none;
     }

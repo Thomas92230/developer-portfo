@@ -12,6 +12,7 @@
   align-items: center;
   justify-content: center;
   height: 100%;
+  width: 100%;
   position: relative;
 }
 
@@ -160,6 +161,9 @@
   .landing--img {
     --img-size: 280px;
   }
+  .lcl--content {
+    padding-bottom: 1rem;
+  }
 
   .landing--social {
     font-size: 30px;
@@ -188,6 +192,11 @@
   }
   .landing--img {
     --img-size: 265px;
+  }
+}
+@media (max-width: 720px) {
+  .landing--container {
+    margin-top: 4%;
   }
 }
 @media (max-width: 700px) {

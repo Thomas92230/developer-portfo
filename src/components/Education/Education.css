@@ -1,5 +1,5 @@
 .education {
-    min-height: 100vh;
+    height: 100%;
 }
 
 .education-body {
@@ -106,6 +106,7 @@
 @media screen and (max-width: 992px) {
     .education {
         min-height: 100%;
+        margin-top: -1rem;
     }
     .education-image {
         display: none;
