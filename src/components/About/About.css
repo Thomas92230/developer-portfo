@@ -98,6 +98,7 @@
     }
     .about-description > p {
       font-size: 1.15rem;
+      padding-left: 1rem;
     }
 
     .about-img>img {
@@ -125,6 +126,7 @@
 
 .about-description > p {
   font-size: 1rem;
+  padding-left: 1rem;
 }
 
 }
@@ -138,7 +140,7 @@
     min-height: 80vh;
     position: relative;
     color: black;
-    margin-bottom: -2rem;
+    margin-bottom: -11rem;
 }
 
     .about-body {
@@ -157,12 +159,13 @@
     }
 
     .about-description > h2 {
-        font-size: 3rem;
+        font-size: 2rem;
         margin-bottom: 20px;
     }
 
     .about-description > p {
         font-size: 1rem;
+        padding-left: 1rem;
     }
 
     .about-img > img {
@@ -211,7 +214,7 @@
   }
   
   .about {
-    margin-bottom: -3rem;
+    margin-bottom: -12rem;
 }
 
 .about--container {
@@ -269,6 +272,9 @@
 
 }
 @media screen and (max-width: 720px){
+  .about {
+    margin-bottom: -12rem;
+  }
   .about--container {
     display: flex;
     align-items: center;
