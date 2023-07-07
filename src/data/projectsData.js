@@ -12,20 +12,20 @@ export const projectsData = [
     {
         id: 1,
         projectName: 'Location immobilère Kasa ',
-        projectDesc: "Site de location immobilère, pour voyager dans le monde entier avec Kasa. Découvrez des locations proposant confort, activités et commerces à proximité. ",
+        projectDesc: "Site de location immobilère, pour voyager dans le monde entier avec Kasa. Découvrez des locations proposant confort, activités et commerces à proximité.",
         tags: ['HTML' ,'CSS', 'Javascript'],
-        demo: "https://thomas92230.github.io/project-kasa/",
-        code: "https://github.com/Thomas92230/project-kasa.git",
-        image: "https://images.wakelet.com/resize?id=T5nR1rHmkEY6G6u6qLhsY&h=362&w=768&q=85#"
+        demo: "https://64a8192c47d9ee0e1509f73b--frolicking-baklava-cca911.netlify.app/",
+        code: "https://github.com/Thomas92230/kasaproject.git",
+        image: "https://images.wakelet.com/resize?id=isJXKzX3HtWIlMDtL-Ku9&h=345&w=768&q=85#"
     },
     {
         id: 2,
-        projectName: 'Portfolio Sophie Bluel',
-        projectDesc: "Un portfolio permettant de faire connaître son identité professionnelle, ses projets, ses compétences et ses coordonnées.",
-        tags: ['HTML', 'CSS','Javascript','React'],
-        demo: "https://thomas92230.github.io/portfolio-sophie/",
-        code: "https://github.com/Thomas92230/portfolio-sophie.git",
-        image: "https://images.wakelet.com/resize?id=bKUVTeH2MObleP16eLsDw&h=348&w=768&q=85#"
+        projectName: 'Print it',
+        projectDesc: "Site d'une entreprise d'imprimerie Print it, présentant son histoire, ses produits et ses services. Ce projet a été réalisé dans le cadre d'une initiation au langage Javascript.",
+        tags: ['HTML', 'CSS','Javascript'],
+        demo: "https://thomas92230.github.io/print-project/",
+        code: "https://github.com/Thomas92230/print-project.git",
+        image: "https://images.wakelet.com/resize?id=LbaU7JhJ5kBMO8l6UbSJQ&h=346&w=768&q=85#"
     },
     {
         id: 3,
