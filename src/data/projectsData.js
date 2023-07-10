@@ -38,7 +38,7 @@ export const projectsData = [
     },
     {
         id: 4,
-        projectName: "Agence d'évènementiel 724events",
+        projectName: "Agence d'évènementiel 77events",
         projectDesc: "Site pour une agence d'évènementiel qui organise des prestations partout dans le monde. L'objectif de la mission était de débugger le site de l'agence à l'aide de tests afin de simuler les différents composants et corriger les bugs à la source.",
         tags: ['HTML','CSS','React','Jest'],
         demo: "https://64a604241d362213a14d43e5--sensational-croquembouche-903096.netlify.app/",
