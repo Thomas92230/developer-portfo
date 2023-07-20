@@ -5,7 +5,6 @@ import { ThemeContext } from '../../contexts/ThemeContext';
 import { aboutData } from '../../data/aboutData'
 
 
-
 function About() {
     const { theme } = useContext(ThemeContext);
     
