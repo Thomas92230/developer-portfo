@@ -168,11 +168,25 @@
 }
 @media screen and (max-width: 720px) {
     .skills {
-        padding-top: 2rem;
+        padding-top: 1.5rem;
+    }
+    .skills-body {
+        width: 100%;
+        height: 100%;
+        margin-top: 4rem;
     }
 }
 
 @media screen and (max-width: 600px) {
+    .skills {
+        padding-top: 1rem;
+    }
+
+    .skills-body {
+        width: 100%;
+        height: 100%;
+        margin-top: 4rem;
+    }
     .skill--box {
         width: 135px;
         height: 135px;
@@ -195,6 +209,15 @@
 }
 
 @media screen and (max-width: 550px) {
+    .skills {
+        padding-top: 0.25rem;
+    }
+
+    .skills-body {
+        width: 100%;
+        height: 100%;
+        margin-top: 4rem;
+    }
   .line-styling {
     position: relative;
     width: 86%;
@@ -207,6 +230,14 @@
 }
 
 @media screen and (max-width: 500px) {
+    .skills {
+        padding-top: 0rem;
+    }
+    .skills-body {
+        width: 100%;
+        height: 100%;
+        margin-top: 3rem;
+    }
     .line-styling {
       position: relative;
       width: 86%;
@@ -217,8 +248,23 @@
       padding-top: 3rem;
   }
   }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 460px) {
+    .skills {
+        padding-top: 0rem;
+    }
 
+    .skills-body {
+        width: 100%;
+        height: 100%;
+        margin-top: 3rem;
+    }
+
+}
+@media screen and (max-width: 400px) {
+    .skills {
+        padding-top: 0rem;
+        width: 105%;
+    }
 }
   
 @media only screen and (min-device-width: 320px) and (max-device-width: 

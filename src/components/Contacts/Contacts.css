@@ -277,6 +277,10 @@
         align-items: center;
         margin-top: 2rem;
     }
+    .contacts {
+        margin-top: -1rem;
+        width: 105%;
+    }
     .submit-btn{align-self: center;}
 }
   
